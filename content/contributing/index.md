@@ -1,4 +1,14 @@
----
+---Poohazamafia555
+
+Poohza
+
+Poohazamafia555l
+
+Poohazamafia555-code/poohza-
+
+Poohza-2026 0807026703​
+
+I 
 title: Contributing to GitHub Docs documentation
 shortTitle: Contribute to GitHub Docs
 intro: 'Learn about how the {% data variables.product.prodname_docs %} team creates documentation and how you can contribute.'
